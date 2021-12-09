@@ -5,4 +5,4 @@ qqqqqqqqq
 Frontend Developer
 4
 5
-6
+6 Rodrevshina
